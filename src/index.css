@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-btn-right {
+    background-color: #FF3811;
+    border-width: 0;
+}
+.my-btn-bg {
+    background-color: #65dbb0;
+    border-width: 0;
+}
+.my-btn-left {
+    background-color: #e4dddd80;
+    border-width: 0;
+}
+.active{
+    background-color: #65dbb0;
+    color: white;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+/* bg-[#FF3811] */
